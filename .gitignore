@@ -1,0 +1,29 @@
+# Environment variables
+.env
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+pip-wheel-metadata/
+venv/
+env/
+.venv/
+build/
+dist/
+*.egg
+
+# IDE / Editor specific (optional, but good practice)
+.vscode/
+.idea/
+*.DS_Store
+
+# Data files that might be local or large
+data/study_calendar.txt 
+# (Consider if you want to commit the calendar. If it's user-specific and can be regenerated, ignoring it is fine. 
+# If you want to track its history and it's not too large or sensitive, you can remove this line.)
+
+# Potentially large FAISS index (if you were saving it to disk explicitly)
+# *.faiss

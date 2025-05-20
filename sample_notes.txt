@@ -1,0 +1,15 @@
+Introduction to Python Programming - Week 1 Notes
+
+        Key Concepts:
+        - Variables: Used to store data. Examples: name = "Alice", age = 30.
+        - Data Types: Integers (int), Floats (float), Strings (str), Booleans (bool).
+        - Print Function: print() is used to display output to the console.
+        - Comments: Lines starting with # are ignored by the interpreter. Used for explanations.
+
+        Basic Operations:
+        - Arithmetic: +, -, *, /, % (modulo), ** (exponentiation)
+        - String Concatenation: Using the + operator to join strings.
+
+        Next Topics:
+        - Conditional statements (if, elif, else)
+        - Loops (for, while)
